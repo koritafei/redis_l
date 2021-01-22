@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang-10 -g -o util_test/cpp/CMakeFiles/doublePointer.dir/doublePointer.c.o -c /home/koritafei/code/redis_l/util_test/cpp/doublePointer.c",
+  "file": "/home/koritafei/code/redis_l/util_test/cpp/doublePointer.c"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang-10 -g -o util_test/cpp/CMakeFiles/dowhile.dir/dowhile.c.o -c /home/koritafei/code/redis_l/util_test/cpp/dowhile.c",
+  "file": "/home/koritafei/code/redis_l/util_test/cpp/dowhile.c"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang-10 -g -o util_test/cpp/CMakeFiles/struct.dir/struct.c.o -c /home/koritafei/code/redis_l/util_test/cpp/struct.c",
+  "file": "/home/koritafei/code/redis_l/util_test/cpp/struct.c"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang++-10 -g -std=gnu++11 -o util_test/cpp/CMakeFiles/string_operator.dir/string_operator.cc.o -c /home/koritafei/code/redis_l/util_test/cpp/string_operator.cc",
+  "file": "/home/koritafei/code/redis_l/util_test/cpp/string_operator.cc"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang++-10 -g -std=gnu++11 -o util_test/cpp/CMakeFiles/tzset_test.dir/tzset_test.cc.o -c /home/koritafei/code/redis_l/util_test/cpp/tzset_test.cc",
+  "file": "/home/koritafei/code/redis_l/util_test/cpp/tzset_test.cc"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang-10 -g -o util_test/cpp/CMakeFiles/ascii.dir/ascii.c.o -c /home/koritafei/code/redis_l/util_test/cpp/ascii.c",
+  "file": "/home/koritafei/code/redis_l/util_test/cpp/ascii.c"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang-10 -g -o util_test/cpp/CMakeFiles/time_test.dir/time_test.c.o -c /home/koritafei/code/redis_l/util_test/cpp/time_test.c",
+  "file": "/home/koritafei/code/redis_l/util_test/cpp/time_test.c"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang-10 -g -o util_test/cpp/CMakeFiles/malloc_test.dir/malloc_test.c.o -c /home/koritafei/code/redis_l/util_test/cpp/malloc_test.c",
+  "file": "/home/koritafei/code/redis_l/util_test/cpp/malloc_test.c"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang++-10 -g -std=gnu++11 -o util_test/cpp/CMakeFiles/setlocal_test.dir/setlocal_test.cc.o -c /home/koritafei/code/redis_l/util_test/cpp/setlocal_test.cc",
+  "file": "/home/koritafei/code/redis_l/util_test/cpp/setlocal_test.cc"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang-10 -g -o util_test/cpp/CMakeFiles/get_pid_memory.dir/get_pid_memory.c.o -c /home/koritafei/code/redis_l/util_test/cpp/get_pid_memory.c",
+  "file": "/home/koritafei/code/redis_l/util_test/cpp/get_pid_memory.c"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang++-10 -g -std=gnu++11 -o util_test/cpp/CMakeFiles/set_new_handler.dir/set_new_handler.cc.o -c /home/koritafei/code/redis_l/util_test/cpp/set_new_handler.cc",
+  "file": "/home/koritafei/code/redis_l/util_test/cpp/set_new_handler.cc"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang-10 -g -o util_test/cpp/CMakeFiles/malloc_oom_handler.dir/malloc_oom_handler.c.o -c /home/koritafei/code/redis_l/util_test/cpp/malloc_oom_handler.c",
+  "file": "/home/koritafei/code/redis_l/util_test/cpp/malloc_oom_handler.c"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang++-10 -g -std=gnu++11 -o util_test/cpp/CMakeFiles/hook.dir/hook.cc.o -c /home/koritafei/code/redis_l/util_test/cpp/hook.cc",
+  "file": "/home/koritafei/code/redis_l/util_test/cpp/hook.cc"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang-10 -g -o util_test/thread_info/CMakeFiles/sched_getcpu_test.dir/sched_getcpu_test.c.o -c /home/koritafei/code/redis_l/util_test/thread_info/sched_getcpu_test.c",
+  "file": "/home/koritafei/code/redis_l/util_test/thread_info/sched_getcpu_test.c"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang-10 -g -o util_test/thread_info/CMakeFiles/pthread_getspecific_test.dir/pthread_getspecific_test.c.o -c /home/koritafei/code/redis_l/util_test/thread_info/pthread_getspecific_test.c",
+  "file": "/home/koritafei/code/redis_l/util_test/thread_info/pthread_getspecific_test.c"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang-10 -g -o util_test/thread_info/CMakeFiles/pthread_self.dir/pthread_self.c.o -c /home/koritafei/code/redis_l/util_test/thread_info/pthread_self.c",
+  "file": "/home/koritafei/code/redis_l/util_test/thread_info/pthread_self.c"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang-10 -DSDS_TEST_MAIN -I../redis/include -g -o redis/CMakeFiles/sdstest.dir/src/sds.c.o -c /home/koritafei/code/redis_l/redis/src/sds.c",
+  "file": "/home/koritafei/code/redis_l/redis/src/sds.c"
+},
+{
+  "directory": "/home/koritafei/code/redis_l/build",
+  "command": "/usr/bin/clang-10 -DSDS_TEST_MAIN -I../redis/include -g -o redis/CMakeFiles/sdstest.dir/src/zmalloc.c.o -c /home/koritafei/code/redis_l/redis/src/zmalloc.c",
+  "file": "/home/koritafei/code/redis_l/redis/src/zmalloc.c"
+}
+]

@@ -1,0 +1,6 @@
+link_libraries(pthread)
+
+add_executable(pthread_getspecific_test pthread_getspecific_test.c)
+add_executable(pthread_self pthread_self.c)
+
+add_executable(sched_getcpu_test sched_getcpu_test.c)

@@ -1,0 +1,260 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "util_test/cpp",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "util_test/cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				},
+				{
+					"build" : "util_test/thread_info",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "util_test/thread_info",
+					"targetIndexes" : 
+					[
+						7,
+						8,
+						9
+					]
+				},
+				{
+					"build" : "plugins/jemalloc",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "plugins/jemalloc"
+				},
+				{
+					"build" : "redis",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "redis",
+					"targetIndexes" : 
+					[
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "redis_l",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "ascii::@9fc5eaa2ef9b0445d126",
+					"jsonFile" : "target-ascii-Debug-07976d60e49aec46a35e.json",
+					"name" : "ascii",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "doublePointer::@9fc5eaa2ef9b0445d126",
+					"jsonFile" : "target-doublePointer-Debug-9655c03254f12cd72887.json",
+					"name" : "doublePointer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "dowhile::@9fc5eaa2ef9b0445d126",
+					"jsonFile" : "target-dowhile-Debug-ab4d2bea74aac879116c.json",
+					"name" : "dowhile",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "get_pid_memory::@9fc5eaa2ef9b0445d126",
+					"jsonFile" : "target-get_pid_memory-Debug-f473bbff2b46771a2653.json",
+					"name" : "get_pid_memory",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "hook::@9fc5eaa2ef9b0445d126",
+					"jsonFile" : "target-hook-Debug-4defa56a6f34b97b187a.json",
+					"name" : "hook",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "malloc_oom_handler::@9fc5eaa2ef9b0445d126",
+					"jsonFile" : "target-malloc_oom_handler-Debug-cd516f4ef5b440843428.json",
+					"name" : "malloc_oom_handler",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "malloc_test::@9fc5eaa2ef9b0445d126",
+					"jsonFile" : "target-malloc_test-Debug-1cec19dfa49c06534e2b.json",
+					"name" : "malloc_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "pthread_getspecific_test::@95f537ee0b786e2dad0d",
+					"jsonFile" : "target-pthread_getspecific_test-Debug-569105b904226bed5806.json",
+					"name" : "pthread_getspecific_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "pthread_self::@95f537ee0b786e2dad0d",
+					"jsonFile" : "target-pthread_self-Debug-6cd0c3235ba185b949ed.json",
+					"name" : "pthread_self",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sched_getcpu_test::@95f537ee0b786e2dad0d",
+					"jsonFile" : "target-sched_getcpu_test-Debug-1a4eeef1b7ec70f40e46.json",
+					"name" : "sched_getcpu_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "sdstest::@af09e0c37d449dd92162",
+					"jsonFile" : "target-sdstest-Debug-5811afa6cc78fbf06d2e.json",
+					"name" : "sdstest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "set_new_handler::@9fc5eaa2ef9b0445d126",
+					"jsonFile" : "target-set_new_handler-Debug-53863b98bb84541a923f.json",
+					"name" : "set_new_handler",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "setlocal_test::@9fc5eaa2ef9b0445d126",
+					"jsonFile" : "target-setlocal_test-Debug-a703ccda2bc5cc1b2c98.json",
+					"name" : "setlocal_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "string_operator::@9fc5eaa2ef9b0445d126",
+					"jsonFile" : "target-string_operator-Debug-e3bced61a59b7adbd219.json",
+					"name" : "string_operator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "struct::@9fc5eaa2ef9b0445d126",
+					"jsonFile" : "target-struct-Debug-1b742d3da3a20dae10f0.json",
+					"name" : "struct",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "time_test::@9fc5eaa2ef9b0445d126",
+					"jsonFile" : "target-time_test-Debug-90619852a1b61a984f27.json",
+					"name" : "time_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "tzset_test::@9fc5eaa2ef9b0445d126",
+					"jsonFile" : "target-tzset_test-Debug-c5f9c60b302f2a0b78bc.json",
+					"name" : "tzset_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/koritafei/code/redis_l/build",
+		"source" : "/home/koritafei/code/redis_l"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
